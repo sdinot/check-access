@@ -11,4 +11,8 @@ my GitHub account.
 
 Copyright 2026, Sébastien Dinot
 
-This project is made available under the Apache License, Version 2.0.
+This project is released under the [Apache License, Version 2.0][apache-2.0].
+A copy of this license is provided in the [LICENSE][LICENSE] file.
+
+
+[apache-2.0]: https://apache.org/licenses/LICENSE-2.0
